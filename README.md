@@ -1,7 +1,5 @@
 # markdown-grammar
 
-[『Cmd 技术渲染的沙箱页面，点击此处编写自己的文档』](https://www.zybuluo.com/mdeditor "作业部落旗下 Cmd 在线 Markdown 编辑阅读器")
-
 # Cmd Markdown 简明语法手册
 
 标签： Cmd-Markdown
@@ -40,7 +38,7 @@
 
 示例：
 
-这是去往 [本人博客](http://ghosertblog.github.com) 的链接。
+这是去往 [本人博客]() 的链接。
 
 ### 4. 无序列表
 
