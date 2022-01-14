@@ -1,8 +1,8 @@
 # markdown-grammar
 
-# Cmd Markdown 简明语法手册
+# Markdown 简明语法手册
 
-标签： Cmd-Markdown
+标签： Markdown
 
 ---
 
@@ -38,7 +38,7 @@
 
 示例：
 
-这是去往 [本人博客]() 的链接。
+这是去往 [百度](http://www.baidu.com) 的链接。
 
 ### 4. 无序列表
 
